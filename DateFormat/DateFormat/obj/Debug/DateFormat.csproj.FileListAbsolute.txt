@@ -1,5 +1,0 @@
-c:\users\ashish.kadam\documents\visual studio 2015\Projects\DateFormat\DateFormat\bin\Debug\DateFormat.exe.config
-c:\users\ashish.kadam\documents\visual studio 2015\Projects\DateFormat\DateFormat\bin\Debug\DateFormat.exe
-c:\users\ashish.kadam\documents\visual studio 2015\Projects\DateFormat\DateFormat\bin\Debug\DateFormat.pdb
-c:\users\ashish.kadam\documents\visual studio 2015\Projects\DateFormat\DateFormat\obj\Debug\DateFormat.exe
-c:\users\ashish.kadam\documents\visual studio 2015\Projects\DateFormat\DateFormat\obj\Debug\DateFormat.pdb
